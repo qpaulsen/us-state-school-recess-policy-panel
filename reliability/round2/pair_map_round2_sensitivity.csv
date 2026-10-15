@@ -1,0 +1,43 @@
+state,row_id_A,row_id_B,instrument_label
+Idaho,ID_RECESS_NONE_2000_2025,ID_2000BASE_RECESS_NONE,recess silent baseline whole window
+Idaho,ID_PE_2000_ELEM_1_6,ID_IDAPA_PE_UMBRELLA,IDAPA PE umbrella (QAP elementary split; CL combined K-8)
+Idaho,ID_PE_2000_MIDDLE,ID_IDAPA_PE_UMBRELLA__dup_ID_PE_2000_MIDDLE,IDAPA PE umbrella middle (QAP split row) [granularity-matched]
+Idaho,ID_PE_2000_HS_OFFERING,,IDAPA HS PE offering (CL: audit log only)
+Idaho,ID_PE_2000_UMBRELLA_331605,,Idaho Code 33-1605 PE statute (QAP only)
+Idaho,ID_OUTDOOR_TIME_NONE,ID_2000BASE_RECESS_NONE__dup_ID_OUTDOOR_TIME_NONE,outdoor-time silent baseline (QAP separate topic row) [granularity-matched]
+Indiana,IN_2000BASE_RECESS_NONE,IN_2000BASE_RECESS_NONE,recess silent baseline
+Indiana,IN_PA_2006_ELEM_DAILY,IN_SEA111_2006_PA,SEA 111 2006 daily PA elementary
+Indiana,IN_PE_1993_G13,IN_IAC_PE_UMBRELLA,pre-2010 elementary PE rule (QAP minutes 1-3; CL umbrella K-8)
+Indiana,IN_PE_1993_G46,IN_IAC_PE_UMBRELLA__dup_IN_PE_1993_G46,pre-2010 elementary PE rule grades 4-6 (QAP split) [granularity-matched]
+Indiana,IN_PE_1993_G68,IN_IAC_PE_UMBRELLA__dup_IN_PE_1993_G68,pre-2010 middle PE rule 6-8 (QAP split) [granularity-matched]
+Indiana,IN_PA_MIDDLE_2011_NONE,,middle PA silent after 2011 repeal (QAP only)
+Iowa,IA_2000BASE_RECESS_OUTDOOR_NONE,IA_2000BASE_RECESS_NONE,recess silent baseline
+Iowa,IA_PE_2000BASE_16,IA_CODE_PE_UMBRELLA,PE taught grades 1-6 (CL combined 1-8)
+Iowa,IA_PE_2000BASE_78,IA_CODE_PE_UMBRELLA__dup_IA_PE_2000BASE_78,PE taught grades 7-8 (QAP split row) [granularity-matched]
+Iowa,IA_PE_2000BASE_912,IA_CODE_HS_PE_EIGHTH_UNIT,HS PE 9-12 (QAP offer-and-teach; CL one-eighth unit participation)
+Iowa,IA_SF2425_2008_PA_K5,IA_SF2425_2008_PA_K5,Healthy Kids Act K-5 30 min daily
+Iowa,IA_SF2425_2008_PA_612,IA_SF2425_2008_PA_612,Healthy Kids Act 6-12 120 min weekly
+Rhode Island,RI_2000BASE_RECESS_NONE,RI_2000BASE_RECESS_NONE,recess silent baseline
+Rhode Island,RI_PE_BASELINE_2000,RI_GL16224_HPE_20MIN,16-22-4 health and PE 20 min daily
+Rhode Island,RI_BEP2009_RECESS_K5,RI_BEP2009_RECESS_K5,BEP 2009 daily recess K-5
+Rhode Island,RI_PL2016_RECESS_K6_20,RI_PL2016_157_RECESS_K6,P.L. 2016 ch 157 free-play recess K-6
+Tennessee,TN_RECESS_2000BASE_NONE,TN_2000BASE_NONE,silent baseline (CL single row; QAP split by topic)
+Tennessee,TN_PA_2000BASE_NONE,TN_2000BASE_NONE__dup_TN_PA_2000BASE_NONE,PA silent baseline (QAP split row) [granularity-matched]
+Tennessee,TN_OUTDOOR_TIME_2000BASE_NONE,TN_2000BASE_NONE__dup_TN_OUTDOOR_TIME_2000BASE_NONE,outdoor-time silent baseline (QAP split row) [granularity-matched]
+Tennessee,TN_RECESS_2005_DAILY_RECOMMEND,,SBE 2005 daily recess recommendation (QAP only)
+Tennessee,TN_PA_2006_90MIN_K12,TN_PC1001_2006_PA_K12,2006 ch 1001 90 min weekly K-12
+Tennessee,TN_PA_2016_K1_45DAILY,TN_CH669_2016_PA_K1,2016 ch 669 K-1 three 15-min periods
+Tennessee,TN_PA_2016_26_40X4,TN_CH669_2016_PA_26,2016 ch 669 2-6 two 20-min periods four days
+Tennessee,TN_PA_2016_712_90WEEKLY,TN_CH669_2016_PA_712,2016 ch 669 7-12 90 weekly
+Tennessee,TN_PA_2017_ELEM_130WEEKLY,TN_CH99_2017_PA_ELEM,2017 ch 99 elementary 130 weekly
+Tennessee,TN_PA_2017_MSHS_90WEEKLY,TN_CH99_2017_PA_MSHS,2017 ch 99 MS-HS 90 weekly
+Tennessee,TN_PE_2020_ELEM_60WEEKLY,TN_CH976_2018_PE_ELEM,2018 ch 976 Tom Cronan PE 60 weekly
+Tennessee,TN_PA_2025_ELEM_40DAILY_OUTDOOR,TN_PC306_2025_PA_ELEM,2025 PC 306 elementary 40 daily outdoor
+Virginia,VA_RECESS_2000BASE_NONE,,recess silent baseline 2000-2006 (QAP only; CL treats SOA recess as baseline)
+Virginia,VA_PA_2000BASE_NONE,,PA silent baseline (QAP split row) [scope: CL no VA baseline]
+Virginia,VA_OUTDOOR_TIME_2000BASE_NONE,,outdoor-time silent baseline (QAP split row) [scope: CL no VA baseline]
+Virginia,VA_RECESS_2006,VA_SOA_RECESS_ELEM,8VAC20-131-200 daily elementary recess
+Virginia,VA_PA_2008,VA_SOQ_PA_GOAL_K12,pre-2016 150-min weekly PA goal
+Virginia,VA_PA_2018_K5,VA_SOQ_2016_PA_K5,2016 act K-5 20 min daily
+Virginia,VA_PA_2018_612,VA_SOQ_2016_PA_612_GOAL,2016 act 6-12 150 weekly goal
+Virginia,,VA_CODE_PE_UMBRELLA,22.1-207 PE umbrella K-12 (umbrella_subject)

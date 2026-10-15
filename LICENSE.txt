@@ -1,0 +1,3 @@
+Dataset, codebook, audit log and documentation: Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+Code (code/): MIT License.
+Source documents (source_documents/): reproductions of United States state statutes, regulations, session laws, state register filings, state board policies and minutes, and state agency guidance, deposited as retrieved for verification of the coded values. These are public records of the issuing governments; copyright, where any subsists, remains with the issuing body.

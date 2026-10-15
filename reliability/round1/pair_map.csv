@@ -1,0 +1,25 @@
+state,row_id_A,row_id_B,instrument_label
+Alabama,AL_NONE_2000_BASELINE,AL_2000BASE_RECESS_NONE,2000 silent recess baseline
+Alabama,AL_PE_STATUTE_2000_BASELINE,AL_STATUTE1927_PE,2000 umbrella PE statute
+Alabama,AL_PE_PROGRAM_2000_BASELINE,AL_COS2009_PE_ELEM,elementary PE dose (1989 baseline vs 2009 restatement)
+Alabama,AL_RECESS_2009,AL_COS2009_RECESS,2009 daily recess recommendation
+Alabama,AL_RECESS_2019,AL_COS2019_RECESS,2019 20-min recess recommendation
+Alabama,AL_PE_2019_K5,AL_COS2019_PE_K5,2019 K-5 PE dose
+Alabama,AL_PE_2019_68,AL_COS2019_PE_68,2019 grades 6-8 PE dose
+Alabama,,AL_COS2009_PE_78,conditional grades 7-8 PE provision
+Alaska,AK_NONE_2000_BASELINE,AK_2000BASE_NONE,2000 silent baseline
+Alaska,AK_PE_STANDARDS_2010,,2010 PE content-standards adoption
+Alaska,AK_DAILY_PA_2016,AK_SB200_2016_PA,2016 K-8 daily PA guideline requirement
+Arizona,AZ_NONE_2000_BASELINE,AZ_2000BASE_NONE,2000 silent baseline
+Arizona,AZ_PE_BASELINE_2000,,PE subject-area requirement (R7-2-301)
+Arizona,AZ_RECESS_2018_K3,AZ_SB1083_2018_K3,2018 K-3 recess mandate
+Arizona,AZ_RECESS_2019_K5,AZ_SB1083_2019_K5,2019 K-5 staged expansion
+Arkansas,AR_2000_baseline_silent,AR_2000BASE_NONE,2000 silent baseline
+Arkansas,AR_2001_PE_K9,AR_ACT1748_2001_PE,2001 original PE requirement
+Arkansas,AR_2003_PE_K8,AR_ACT1729_2003_PE,2003 K-8 amendment
+Arkansas,AR_2007_PE_K6,AR_ACT317_2007_PE_K6,2007 PE 60/wk K-6
+Arkansas,AR_2007_PA_K6,AR_ACT317_2007_PA_K6,2007 PA 90/wk K-6
+Arkansas,AR_2007_PE_5_8,AR_ACT317_2007_PE_58,2007 PE 60/wk 5-8
+Arkansas,AR_2015_PE_K6,AR_ACT1138_2013_PE_K6,PE cut to 40 K-6 (dating disputed 2013 vs 2015)
+Arkansas,AR_2015_PE_5_8,AR_ACT1138_2013_PE_58,PE cut to 40 5-8 (dating disputed)
+Arkansas,AR_2019_recess,AR_ACT641_2019_RECESS,2019 recess mandate

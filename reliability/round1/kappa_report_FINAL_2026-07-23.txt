@@ -1,0 +1,182 @@
+======================================================================
+INSTRUMENT DETECTION | states: Alaska, Arizona, Arkansas
+Universe 16 | both 14 | only-QAP 2 | only-CL 0 | Jaccard 14/16 = 0.875
+    QAP-only [2010 PE content-standards adoption]: AK_PE_STANDARDS_2010
+    QAP-only [PE subject-area requirement (R7-2-301)]: AZ_PE_BASELINE_2000
+
+CATEGORICAL KAPPA - MATCHED
+field                    kappa      agreement
+topic                    1.000  14/14  (100.0%)
+policy_status            0.818  13/14  ( 92.9%)
+    DISAGREE [2016 K-8 daily PA guideline requirement]: QAP='mandate'; CL='recommendation'
+frequency                1.000  14/14  (100.0%)
+grade_bands              0.916  13/14  ( 92.9%)
+    DISAGREE [2019 recess mandate]: QAP='public elementary schools'; CL='elementary'
+outdoor_specificity      1.000  14/14  (100.0%)
+withholding_recess          NA  14/14  (100.0%)
+enforcement              0.300   7/14  ( 50.0%)
+    DISAGREE [2016 K-8 daily PA guideline requirement]: QAP='statutory_soft'; CL='none'
+    DISAGREE [2003 K-8 amendment]: QAP='statutory_soft'; CL='monitored'
+    DISAGREE [2007 PE 60/wk K-6]: QAP='statutory_soft'; CL='monitored'
+    DISAGREE [2007 PA 90/wk K-6]: QAP='statutory_soft'; CL='monitored'
+    DISAGREE [2007 PE 60/wk 5-8]: QAP='statutory_soft'; CL='monitored'
+    DISAGREE [PE cut to 40 K-6 (dating disputed 2013 vs 2015)]: QAP='statutory_soft'; CL='monitored'
+    DISAGREE [PE cut to 40 5-8 (dating disputed)]: QAP='statutory_soft'; CL='monitored'
+source_type              0.323  11/14  ( 78.6%)
+    DISAGREE [2001 original PE requirement]: QAP='primary_statute'; CL='annotated_code'
+    DISAGREE [PE cut to 40 K-6 (dating disputed 2013 vs 2015)]: QAP='primary_statute'; CL='annotated_code'
+    DISAGREE [PE cut to 40 5-8 (dating disputed)]: QAP='primary_statute'; CL='annotated_code'
+confidence               0.000  11/14  ( 78.6%)
+    DISAGREE [2000 silent baseline]: QAP='medium'; CL='high'
+    DISAGREE [2000 silent baseline]: QAP='medium'; CL='high'
+    DISAGREE [2001 original PE requirement]: QAP='medium'; CL='high'
+
+INCLUSIVE SENSITIVITY - MISSING AS CATEGORY
+field                    kappa      agreement
+topic                    0.797  14/16  ( 87.5%)
+    DISAGREE [2010 PE content-standards adoption]: QAP='daily_pa_minutes'; CL='__missing_instrument__'
+    DISAGREE [PE subject-area requirement (R7-2-301)]: QAP='daily_pa_minutes'; CL='__missing_instrument__'
+policy_status            0.619  13/16  ( 81.2%)
+    DISAGREE [2010 PE content-standards adoption]: QAP='recommendation'; CL='__missing_instrument__'
+    DISAGREE [2016 K-8 daily PA guideline requirement]: QAP='mandate'; CL='recommendation'
+    DISAGREE [PE subject-area requirement (R7-2-301)]: QAP='mandate'; CL='__missing_instrument__'
+frequency                0.818  14/16  ( 87.5%)
+    DISAGREE [2010 PE content-standards adoption]: QAP='na'; CL='__missing_instrument__'
+    DISAGREE [PE subject-area requirement (R7-2-301)]: QAP='na'; CL='__missing_instrument__'
+grade_bands              0.787  13/16  ( 81.2%)
+    DISAGREE [2010 PE content-standards adoption]: QAP='k-12'; CL='__missing_instrument__'
+    DISAGREE [PE subject-area requirement (R7-2-301)]: QAP='k-8'; CL='__missing_instrument__'
+    DISAGREE [2019 recess mandate]: QAP='public elementary schools'; CL='elementary'
+outdoor_specificity      0.746  14/16  ( 87.5%)
+    DISAGREE [2010 PE content-standards adoption]: QAP='unspecified'; CL='__missing_instrument__'
+    DISAGREE [PE subject-area requirement (R7-2-301)]: QAP='unspecified'; CL='__missing_instrument__'
+withholding_recess       0.000  14/16  ( 87.5%)
+    DISAGREE [2010 PE content-standards adoption]: QAP='silent'; CL='__missing_instrument__'
+    DISAGREE [PE subject-area requirement (R7-2-301)]: QAP='silent'; CL='__missing_instrument__'
+enforcement              0.242   7/16  ( 43.8%)
+    DISAGREE [2010 PE content-standards adoption]: QAP='none'; CL='__missing_instrument__'
+    DISAGREE [2016 K-8 daily PA guideline requirement]: QAP='statutory_soft'; CL='none'
+    DISAGREE [PE subject-area requirement (R7-2-301)]: QAP='monitored'; CL='__missing_instrument__'
+    DISAGREE [2003 K-8 amendment]: QAP='statutory_soft'; CL='monitored'
+    DISAGREE [2007 PE 60/wk K-6]: QAP='statutory_soft'; CL='monitored'
+    DISAGREE [2007 PA 90/wk K-6]: QAP='statutory_soft'; CL='monitored'
+    DISAGREE [2007 PE 60/wk 5-8]: QAP='statutory_soft'; CL='monitored'
+    DISAGREE [PE cut to 40 K-6 (dating disputed 2013 vs 2015)]: QAP='statutory_soft'; CL='monitored'
+    DISAGREE [PE cut to 40 5-8 (dating disputed)]: QAP='statutory_soft'; CL='monitored'
+source_type              0.344  11/16  ( 68.8%)
+    DISAGREE [2010 PE content-standards adoption]: QAP='other'; CL='__missing_instrument__'
+    DISAGREE [PE subject-area requirement (R7-2-301)]: QAP='other'; CL='__missing_instrument__'
+    DISAGREE [2001 original PE requirement]: QAP='primary_statute'; CL='annotated_code'
+    DISAGREE [PE cut to 40 K-6 (dating disputed 2013 vs 2015)]: QAP='primary_statute'; CL='annotated_code'
+    DISAGREE [PE cut to 40 5-8 (dating disputed)]: QAP='primary_statute'; CL='annotated_code'
+confidence               0.091  11/16  ( 68.8%)
+    DISAGREE [2000 silent baseline]: QAP='medium'; CL='high'
+    DISAGREE [2010 PE content-standards adoption]: QAP='high'; CL='__missing_instrument__'
+    DISAGREE [2000 silent baseline]: QAP='medium'; CL='high'
+    DISAGREE [PE subject-area requirement (R7-2-301)]: QAP='medium'; CL='__missing_instrument__'
+    DISAGREE [2001 original PE requirement]: QAP='medium'; CL='high'
+
+NUMERIC AGREEMENT - MATCHED
+minutes_required       exact=14/14
+
+DATE AGREEMENT - MATCHED
+enactment_date         exact=6/14; same-year=12/14
+    DISAGREE [2016 K-8 daily PA guideline requirement]: QAP='2016-07-18'; CL='2016'
+    DISAGREE [2001 original PE requirement]: QAP='2001'; CL='2001-04-18'
+    DISAGREE [2003 K-8 amendment]: QAP='2003'; CL='2003-04-22'
+    DISAGREE [2007 PE 60/wk K-6]: QAP='2007-03-19'; CL='2007'
+    DISAGREE [2007 PA 90/wk K-6]: QAP='2007-03-19'; CL='2007'
+    DISAGREE [2007 PE 60/wk 5-8]: QAP='2007-03-19'; CL='2007'
+    DISAGREE [PE cut to 40 K-6 (dating disputed 2013 vs 2015)]: QAP='2015-04-06'; CL='2013'
+    DISAGREE [PE cut to 40 5-8 (dating disputed)]: QAP='2015-04-06'; CL='2013'
+effective_date         exact=12/14; same-year=12/14
+    DISAGREE [PE cut to 40 K-6 (dating disputed 2013 vs 2015)]: QAP='2015-07-22'; CL='2013-08-16'
+    DISAGREE [PE cut to 40 5-8 (dating disputed)]: QAP='2015-07-22'; CL='2013-08-16'
+amended_date           exact=5/14; same-year=5/14
+    INVALID [2003 K-8 amendment] QAP='__invalid_date__:1905-06-25 00:00:00'
+    DISAGREE [2019 K-5 staged expansion]: QAP='2019-08-01'; CL='__blank__'
+    DISAGREE [2001 original PE requirement]: QAP='__blank__'; CL='2003'
+    DISAGREE [2003 K-8 amendment]: QAP='__invalid_date__:1905-06-25 00:00:00'; CL='2007'
+    DISAGREE [2007 PE 60/wk K-6]: QAP='2007-03-19'; CL='2013-08-16'
+    DISAGREE [2007 PA 90/wk K-6]: QAP='2007-03-19'; CL='__blank__'
+    DISAGREE [2007 PE 60/wk 5-8]: QAP='2007-03-19'; CL='2013-08-16'
+    DISAGREE [PE cut to 40 K-6 (dating disputed 2013 vs 2015)]: QAP='2015-04-06'; CL='__blank__'
+    DISAGREE [PE cut to 40 5-8 (dating disputed)]: QAP='2015-04-06'; CL='__blank__'
+    DISAGREE [2019 recess mandate]: QAP='2019-04-01'; CL='__blank__'
+repeal_date            exact=14/14; same-year=14/14
+implementation_school_year exact=8/14
+    DISAGREE [2018 K-3 recess mandate]: QAP='2018-2019'; CL='__blank__'
+    DISAGREE [2019 K-5 staged expansion]: QAP='2019-2020'; CL='__blank__'
+    DISAGREE [2007 PE 60/wk K-6]: QAP='__blank__'; CL='2007-2008'
+    DISAGREE [2007 PA 90/wk K-6]: QAP='__blank__'; CL='2007-2008'
+    DISAGREE [2007 PE 60/wk 5-8]: QAP='__blank__'; CL='2007-2008'
+    DISAGREE [2019 recess mandate]: QAP='2019-2020'; CL='__blank__'
+======================================================================
+INSTRUMENT DETECTION | states: Alabama
+Universe 8 | both 7 | only-QAP 0 | only-CL 1 | Jaccard 7/8 = 0.875
+    CL-only [conditional grades 7-8 PE provision]: AL_COS2009_PE_78
+
+CATEGORICAL KAPPA - MATCHED
+field                    kappa      agreement
+topic                    1.000   7/7   (100.0%)
+policy_status            1.000   7/7   (100.0%)
+frequency                1.000   7/7   (100.0%)
+grade_bands              0.659   5/7   ( 71.4%)
+    DISAGREE [2000 umbrella PE statute]: QAP='k-12'; CL='__blank__'
+    DISAGREE [elementary PE dose (1989 baseline vs 2009 restatement)]: QAP='1-6'; CL='elementary'
+outdoor_specificity      1.000   7/7   (100.0%)
+withholding_recess       1.000   7/7   (100.0%)
+enforcement              0.462   4/7   ( 57.1%)
+    DISAGREE [elementary PE dose (1989 baseline vs 2009 restatement)]: QAP='monitored'; CL='unknown'
+    DISAGREE [2019 K-5 PE dose]: QAP='monitored'; CL='unknown'
+    DISAGREE [2019 grades 6-8 PE dose]: QAP='monitored'; CL='unknown'
+source_type              1.000   7/7   (100.0%)
+confidence               0.588   6/7   ( 85.7%)
+    DISAGREE [2009 daily recess recommendation]: QAP='medium'; CL='high'
+
+INCLUSIVE SENSITIVITY - MISSING AS CATEGORY
+field                    kappa      agreement
+topic                    0.795   7/8   ( 87.5%)
+    DISAGREE [conditional grades 7-8 PE provision]: QAP='__missing_instrument__'; CL='daily_pa_minutes'
+policy_status            0.795   7/8   ( 87.5%)
+    DISAGREE [conditional grades 7-8 PE provision]: QAP='__missing_instrument__'; CL='mandate'
+frequency                0.733   7/8   ( 87.5%)
+    DISAGREE [conditional grades 7-8 PE provision]: QAP='__missing_instrument__'; CL='daily'
+grade_bands              0.571   5/8   ( 62.5%)
+    DISAGREE [2000 umbrella PE statute]: QAP='k-12'; CL='__blank__'
+    DISAGREE [elementary PE dose (1989 baseline vs 2009 restatement)]: QAP='1-6'; CL='elementary'
+    DISAGREE [conditional grades 7-8 PE provision]: QAP='__missing_instrument__'; CL='7-8'
+outdoor_specificity      0.619   7/8   ( 87.5%)
+    DISAGREE [conditional grades 7-8 PE provision]: QAP='__missing_instrument__'; CL='unspecified'
+withholding_recess       0.619   7/8   ( 87.5%)
+    DISAGREE [conditional grades 7-8 PE provision]: QAP='__missing_instrument__'; CL='silent'
+enforcement              0.407   4/8   ( 50.0%)
+    DISAGREE [elementary PE dose (1989 baseline vs 2009 restatement)]: QAP='monitored'; CL='unknown'
+    DISAGREE [2019 K-5 PE dose]: QAP='monitored'; CL='unknown'
+    DISAGREE [2019 grades 6-8 PE dose]: QAP='monitored'; CL='unknown'
+    DISAGREE [conditional grades 7-8 PE provision]: QAP='__missing_instrument__'; CL='unknown'
+source_type              0.619   7/8   ( 87.5%)
+    DISAGREE [conditional grades 7-8 PE provision]: QAP='__missing_instrument__'; CL='board_policy_manual'
+confidence               0.407   6/8   ( 75.0%)
+    DISAGREE [2009 daily recess recommendation]: QAP='medium'; CL='high'
+    DISAGREE [conditional grades 7-8 PE provision]: QAP='__missing_instrument__'; CL='high'
+
+NUMERIC AGREEMENT - MATCHED
+minutes_required       exact=7/7
+
+DATE AGREEMENT - MATCHED
+enactment_date         exact=2/7; same-year=5/7
+    DISAGREE [2000 umbrella PE statute]: QAP='__blank__'; CL='1927'
+    DISAGREE [elementary PE dose (1989 baseline vs 2009 restatement)]: QAP='__blank__'; CL='2009-04'
+    DISAGREE [2019 20-min recess recommendation]: QAP='2019-03-14'; CL='2019'
+    DISAGREE [2019 K-5 PE dose]: QAP='2019-03-14'; CL='2019'
+    DISAGREE [2019 grades 6-8 PE dose]: QAP='2019-03-14'; CL='2019'
+effective_date         exact=7/7; same-year=7/7
+amended_date           exact=2/7; same-year=2/7
+    DISAGREE [elementary PE dose (1989 baseline vs 2009 restatement)]: QAP='__blank__'; CL='2019'
+    DISAGREE [2009 daily recess recommendation]: QAP='__blank__'; CL='2019'
+    DISAGREE [2019 20-min recess recommendation]: QAP='2019-03-14'; CL='__blank__'
+    DISAGREE [2019 K-5 PE dose]: QAP='2019-03-14'; CL='__blank__'
+    DISAGREE [2019 grades 6-8 PE dose]: QAP='2019-03-14'; CL='__blank__'
+repeal_date            exact=7/7; same-year=7/7
+implementation_school_year exact=7/7
