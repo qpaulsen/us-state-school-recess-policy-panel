@@ -36,4 +36,4 @@ Expected output of `validate_panel.py` on v1.0: all eight checks PASS, 550 rows,
 4. `python tables.py` builds Tables 1 and 2; `python combine.py` assembles the figures, legends (`QAP_figure_legends.txt`) and tables into one PDF for review.
    `python si.py` (run in `figures/` after `s1_grid.py`) builds the Supplementary Information PDF (Figure S1 with its legend).
 
-Figure 4a plots the agreement values reported in the Technical Validation text; 4b and 4c are computed from the AUDIT_CANDIDATES sheet.
+Figure 4a plots the agreement values reported in the Technical Validation text; 4b is computed from the AUDIT_CANDIDATES sheet (check from `log_id`, outcome from the `outcome` column).
